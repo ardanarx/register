@@ -1,1 +1,10 @@
-
+{
+  "description": "Personal website of Ardanarx",
+  "owner": {
+    "username": "ardanarx",
+    "email": "ardanarx@gmail.com"
+  },
+  "records": {
+    "CNAME": "ardanarx.pages.dev"
+  }
+}
